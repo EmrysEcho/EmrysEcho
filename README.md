@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning japanese
 - 💞️ I’m looking to collaborate on building
 - 📫 How to reach me discord, APerson#7679
+- My pronouns are they/them
 
 <!---
 EmrysEcho/EmrysEcho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
